@@ -1,0 +1,18 @@
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\DUC_Grading_System.Form1.resources
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\DUC_Grading_System.Resources.resources
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\DUC Grading System.vbproj.GenerateResource.Cache
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\DUC_Grading_System.loginform.resources
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\bin\Debug\Grade Point Average Calculator.exe.config
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\bin\Debug\Grade Point Average Calculator.exe.manifest
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\bin\Debug\Grade Point Average Calculator.application
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\bin\Debug\Grade Point Average Calculator.exe
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\bin\Debug\Grade Point Average Calculator.pdb
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\bin\Debug\Grade Point Average Calculator.xml
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\Grade Point Average Calculator.exe.manifest
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\Grade Point Average Calculator.application
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\Grade Point Average Calculator.exe
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\Grade Point Average Calculator.xml
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\Grade Point Average Calculator.pdb
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\DUC_Grading_System.Form2.resources
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\DUC_Grading_System.Form3.resources
+C:\Users\Shaddy\Documents\Visual Studio 2012\Projects\DUC Grading System\DUC Grading System\obj\Debug\DUC Grading System.vbprojResolveAssemblyReference.cache
